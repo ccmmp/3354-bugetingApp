@@ -1,1 +1,1 @@
-<h1>README - DailyBudget<\h1> 
+<h1>README - DailyBudget
